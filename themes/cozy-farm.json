@@ -1,0 +1,16 @@
+{
+  "name": "cozy-farm",
+  "label": "Cozy Farm",
+  "author": "Custom pixel pack",
+  "version": "1",
+  "iconPack": "cozy-farm",
+  "colors": {
+    "SCREEN": "#1b291b",
+    "BAR": "#293a25",
+    "PANEL": "#293a25",
+    "ROW": "#293a25",
+    "FRAME": "#8c9e60",
+    "ACCENT": "#f1c46d",
+    "TEXT": "#f8eede"
+  }
+}

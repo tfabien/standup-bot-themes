@@ -9,6 +9,10 @@ Themes and icon packs for [standup-bot](https://github.com/tfabien/standup-bot),
 | `office` | `office` | Slate blue palette, a colleague in a suit per role |
 | `pirates` | `pirates` | Night sea palette with a wood frame, a crew member per role |
 | `spelunky` | `spelunky` | Cave brown palette, an explorer per role |
+| `cozy-farm` | `cozy-farm` | Cozy farm palette, a farm character per role |
+| `fantasy-rpg` | `fantasy-rpg` | Fantasy palette, an adventurer class per role |
+| `insect-kingdom` | `insect-kingdom` | Insect palette, a bug per role |
+| `yokai` | `yokai` | Japanese folklore palette, a yokai per role |
 
 ## Install
 
