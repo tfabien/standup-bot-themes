@@ -1,0 +1,16 @@
+{
+  "name": "robot",
+  "label": "Default / Robot",
+  "author": "Custom pixel pack",
+  "version": "1",
+  "iconPack": "robot",
+  "colors": {
+    "SCREEN": "#101b2b",
+    "BAR": "#1a2a40",
+    "PANEL": "#1a2a40",
+    "ROW": "#1a2a40",
+    "FRAME": "#6b8eb3",
+    "ACCENT": "#42c9d3",
+    "TEXT": "#f8eede"
+  }
+}
