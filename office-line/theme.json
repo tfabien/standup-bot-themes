@@ -8,17 +8,17 @@
     "minimal"
   ],
   "author": "Custom",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "colors": {
-    "SCREEN": "#fff8f0",
-    "BAR": "#f8ead9",
-    "FRAME": "#e5c9a8",
-    "PANEL": "#fffdfa",
-    "ROW": "#f5ecdf",
-    "TEXT": "#24354a",
-    "LIGHT": "#df913c",
-    "FAINT": "#8c7c73",
-    "ACCENT": "#f1ae61",
-    "WORKING": "#f1ae61"
+    "SCREEN": "#302F32",
+    "BAR": "#39383B",
+    "FRAME": "#53494A",
+    "PANEL": "#39383B",
+    "ROW": "#403C3D",
+    "TEXT": "#F1E3D3",
+    "LIGHT": "#E2B992",
+    "FAINT": "#B6A49A",
+    "ACCENT": "#E3A36A",
+    "WORKING": "#E3A36A"
   }
 }

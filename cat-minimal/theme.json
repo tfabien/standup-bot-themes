@@ -8,17 +8,17 @@
     "vector"
   ],
   "author": "Custom",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "colors": {
-    "SCREEN": "#f5eef6",
-    "BAR": "#e9dcea",
-    "FRAME": "#bda5c4",
-    "PANEL": "#fcf8fb",
-    "ROW": "#eee1ef",
-    "TEXT": "#342443",
-    "LIGHT": "#9c70a7",
-    "FAINT": "#816d91",
-    "ACCENT": "#e6b46b",
-    "WORKING": "#e6b46b"
+    "SCREEN": "#302B3B",
+    "BAR": "#3B3448",
+    "FRAME": "#51445D",
+    "PANEL": "#3B3448",
+    "ROW": "#43394F",
+    "TEXT": "#E9DFEA",
+    "LIGHT": "#D3BDD9",
+    "FAINT": "#AE99BA",
+    "ACCENT": "#D4A3CA",
+    "WORKING": "#D4A3CA"
   }
 }
