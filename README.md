@@ -2,6 +2,8 @@
 
 Themes and icon packs for [standup-bot](https://github.com/tfabien/standup-bot), the agent standup screen for Claude Code. standup-bot ships with the `default` theme and the `robot` pack only. Everything else lives here.
 
+![Robot, Fantasy RPG, Insect Kingdom, Cozy Farm and Yokai: the eight roles of each pack](images/overview.webp)
+
 | Theme | Icon pack | Look |
 | --- | --- | --- |
 | `cat` | `cat` | Warm brown palette, one cat coat per role |
