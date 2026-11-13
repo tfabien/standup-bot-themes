@@ -37,3 +37,5 @@ Marketplace themes for standup-bot.
 ```
 
 Each theme has its own `icons/` directory. The `name` in `theme.json` must match its folder. Use lowercase names, 3–8 keywords, and a dotted numeric version. Preserve theme color keys and use `node tools/check.mjs` before submitting changes.
+
+Full format reference (theme file, icon packs, looks, accent, palette swaps): [docs/format.md](docs/format.md).
