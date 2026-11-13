@@ -5,7 +5,7 @@ const roles=['lead','general','explore','plan','review','test','code','generic']
 const pattern=/^(lead|general|explore|plan|review|test|code|generic)(?:-([2-9]|[1-9][0-9]))?(?:-blink)?\.(png|webp|gif|jpg|svg)$/;
 const fail=[];let count=0;
 for(const entry of await readdir(root,{withFileTypes:true})){
- if(!entry.isDirectory()||entry.name==='tools'||entry.name.startsWith('.'))continue;
+ if(!entry.isDirectory()||entry.name==='tools'||entry.name==='docs'||entry.name.startsWith('.'))continue;
  const dir=path.join(root,entry.name);const jsonPath=path.join(dir,'theme.json');let d;
  try{const s=await stat(jsonPath);if(s.size>256*1024)throw Error('theme.json too large');d=JSON.parse(await readFile(jsonPath,'utf8'));}catch(e){fail.push(`${entry.name}: ${e.message}`);continue;}
  count++;const error=m=>fail.push(`${entry.name}: ${m}`);
