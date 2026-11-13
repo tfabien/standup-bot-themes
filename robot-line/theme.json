@@ -1,14 +1,15 @@
 {
   "name": "robot-line",
   "label": "Robot Line",
-  "description": "Dark-mode outline-style robot mascots with minimal blue accents.",
+  "description": "Tintable SVG robot mascots with crisp outlines and selectable accents.",
   "keywords": [
     "robot",
     "line",
     "minimal"
   ],
   "author": "Custom",
-  "version": "1.2.0",
+  "version": "1.3.0",
+  "accent": "#58c2d8",
   "colors": {
     "SCREEN": "#1B2D40",
     "BAR": "#23394C",
@@ -20,5 +21,31 @@
     "FAINT": "#8AAFC2",
     "ACCENT": "#5BBDEB",
     "WORKING": "#5BBDEB"
+  },
+  "variants": {
+    "light": {
+      "label": "Light",
+      "colors": {
+        "SCREEN": "#F4F8FB",
+        "BAR": "#E4EDF3",
+        "FRAME": "#7893A5",
+        "PANEL": "#E4EDF3",
+        "ROW": "#D6E3EB",
+        "TEXT": "#1C2B36",
+        "LIGHT": "#3B5262",
+        "FAINT": "#526B7C"
+      },
+      "accent": "#168AAD"
+    },
+    "violet": {
+      "label": "Violet",
+      "colors": {},
+      "accent": "#A78BFA"
+    },
+    "amber": {
+      "label": "Amber",
+      "colors": {},
+      "accent": "#F6B84A"
+    }
   }
 }

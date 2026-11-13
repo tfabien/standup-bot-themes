@@ -1,14 +1,16 @@
 {
   "name": "office",
   "label": "Office",
-  "description": "Office-themed characters with workplace accessories.",
+  "description": "Lossless WebP office characters with role-specific gear and swappable hair palettes.",
   "keywords": [
     "office",
     "work",
-    "pixel"
+    "pixel",
+    "webp",
+    "palette"
   ],
   "author": "standup-bot",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "colors": {
     "SCREEN": "#141a23",
     "BAR": "#202b3b",
@@ -27,5 +29,58 @@
     "CHIP": "#455c76",
     "ACCENT_DIM": "#2f4560",
     "NEEDS_DIM": "#755020"
-  }
+  },
+  "variants": {
+    "light": {
+      "label": "Light",
+      "colors": {
+        "SCREEN": "#F4F7FA",
+        "BAR": "#E5EBF1",
+        "FRAME": "#7890A8",
+        "PANEL": "#E5EBF1",
+        "ROW": "#D7E0E9",
+        "TEXT": "#1C2733",
+        "LIGHT": "#40566C",
+        "FAINT": "#5C7084",
+        "CHIP": "#C6D3DF"
+      }
+    },
+    "warm": {
+      "label": "Warm",
+      "colors": {
+        "SCREEN": "#211A18",
+        "BAR": "#302522",
+        "FRAME": "#8D6A55",
+        "PANEL": "#302522",
+        "ROW": "#40312C",
+        "TEXT": "#F7EEE7",
+        "LIGHT": "#D8C2B2",
+        "FAINT": "#A78D7C",
+        "CHIP": "#5A4439"
+      }
+    }
+  },
+  "looks": {
+    "brown": {
+      "label": "Brown"
+    },
+    "blond": {
+      "label": "Blond",
+      "palette": "hair-blond"
+    },
+    "black": {
+      "label": "Black",
+      "palette": "hair-black"
+    },
+    "red": {
+      "label": "Red",
+      "palette": "hair-red"
+    }
+  },
+  "defaultLooks": [
+    "brown",
+    "blond",
+    "black",
+    "red"
+  ]
 }

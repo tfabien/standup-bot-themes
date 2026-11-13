@@ -1,14 +1,14 @@
 {
   "name": "cat-minimal",
   "label": "Cat Minimal",
-  "description": "Clean, expressive cat illustrations with simplified shapes.",
+  "description": "Small-screen cat mascots with clean silhouettes and three complete sprite looks.",
   "keywords": [
     "cat",
     "minimal",
-    "vector"
+    "sprites"
   ],
   "author": "Custom",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "SCREEN": "#302B3B",
     "BAR": "#3B3448",
@@ -20,5 +20,24 @@
     "FAINT": "#AE99BA",
     "ACCENT": "#D4A3CA",
     "WORKING": "#D4A3CA"
-  }
+  },
+  "looks": {
+    "cream-cyan": {
+      "label": "Cream & Cyan",
+      "sprite": 1
+    },
+    "gray-gold": {
+      "label": "Gray & Gold",
+      "sprite": 2
+    },
+    "calico-mint": {
+      "label": "Calico & Mint",
+      "sprite": 3
+    }
+  },
+  "defaultLooks": [
+    "cream-cyan",
+    "gray-gold",
+    "calico-mint"
+  ]
 }

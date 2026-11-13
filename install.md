@@ -1,15 +1,33 @@
-# Install themes with Claude Code
+# Install and create themes
 
-Open the standup-bot page, click the **Theme** button, then choose the **Marketplace** tab. The default source is `tfabien/standup-bot-themes`. Select a theme and install it.
+## Install from the Marketplace
 
-Alternatively, use the local API:
+Open the Standup Bot page, choose **Theme**, then open the **Marketplace** tab. The default source is `tfabien/standup-bot-themes`.
+
+The local API can also install a theme directly:
 
 ```bash
 curl -X POST http://127.0.0.1:8765/market/install \
   -H 'Content-Type: application/json' \
-  -d '{"source":"tfabien/standup-bot-themes","name":"cat"}'
+  -d '{"source":"tfabien/standup-bot-themes","name":"fantasy-rpg"}'
 ```
 
 ## Create a theme
 
-Create `<name>/theme.json` and `<name>/icons/` at the repository root. Add an optional `<name>/preview.png` (or webp, jpg, gif). The JSON needs `name` (matching folder), `label`, a one-sentence `description` (up to 200 characters), `keywords` (3–8 lowercase words), `author`, dotted `version` (start with `1.0.0`) and unchanged `colors` keys. Do not add `iconPack`. Provide at least one icon for each role: `lead`, `general`, `explore`, `plan`, `review`, `test`, `code`, `generic`. Optional variants are `-2` to `-99`, and `-blink` variants are allowed. Run `node tools/check.mjs` before opening a PR. The full format (looks, accent, `pack.json`, palette swaps) is in [docs/format.md](docs/format.md).
+Create `<name>/theme.json`, `<name>/icons/`, and an optional preview. The `name` must match the folder. Provide at least one icon for each role: `lead`, `general`, `explore`, `plan`, `review`, `test`, `code`, and `generic`.
+
+Supported icon formats are PNG, lossless WebP, JPG, GIF, and SVG. Alternate sprites use `-2` through `-99`; blink frames add `-blink`.
+
+### Interface variants
+
+Add named entries under `variants` to override interface colors or the accent. Variants inherit unspecified values from the base theme.
+
+### Character looks
+
+Add named entries under `looks`, then list the suggested choices in `defaultLooks`.
+
+- `sprite: 2` selects the `-2` role sprites.
+- `palette: "hair-blond"` applies an exact raster palette declared in `icons/pack.json`.
+- SVG themes can expose accent colors when their tintable paths use `currentColor` and the pack declares `{"tint":"svg"}`.
+
+Keep `icons/pack.json` small and limited to rendering metadata. Run `node tools/check.mjs` before opening a pull request. See [docs/format.md](docs/format.md) for the complete reference.
