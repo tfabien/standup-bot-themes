@@ -1,0 +1,24 @@
+{
+  "name": "cat-minimal",
+  "label": "Cat Minimal",
+  "description": "Clean, expressive cat illustrations with simplified shapes.",
+  "keywords": [
+    "cat",
+    "minimal",
+    "vector"
+  ],
+  "author": "Custom",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#f5eef6",
+    "BAR": "#e9dcea",
+    "FRAME": "#bda5c4",
+    "PANEL": "#fcf8fb",
+    "ROW": "#eee1ef",
+    "TEXT": "#342443",
+    "LIGHT": "#9c70a7",
+    "FAINT": "#816d91",
+    "ACCENT": "#e6b46b",
+    "WORKING": "#e6b46b"
+  }
+}

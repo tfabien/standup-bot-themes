@@ -1,0 +1,21 @@
+{
+  "name": "insect-kingdom",
+  "label": "Insect Kingdom",
+  "description": "Tiny insect adventurers from a glowing underground kingdom.",
+  "keywords": [
+    "insects",
+    "fantasy",
+    "pixel"
+  ],
+  "author": "Custom pixel pack",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#0c2028",
+    "BAR": "#142e38",
+    "PANEL": "#142e38",
+    "ROW": "#142e38",
+    "FRAME": "#4c9ba1",
+    "ACCENT": "#9ce6da",
+    "TEXT": "#f8eede"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "office-minimal",
+  "label": "Office Minimal",
+  "description": "Minimal vector-style office characters with clear silhouettes.",
+  "keywords": [
+    "office",
+    "minimal",
+    "vector"
+  ],
+  "author": "Custom",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#e8f4f4",
+    "BAR": "#d6e9e9",
+    "FRAME": "#accbcf",
+    "PANEL": "#f5faf9",
+    "ROW": "#e0f0f0",
+    "TEXT": "#203e4b",
+    "LIGHT": "#237e91",
+    "FAINT": "#698a95",
+    "ACCENT": "#55bba5",
+    "WORKING": "#55bba5"
+  }
+}

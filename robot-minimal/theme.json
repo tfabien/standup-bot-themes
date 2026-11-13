@@ -1,0 +1,24 @@
+{
+  "name": "robot-minimal",
+  "label": "Robot · Minimal",
+  "description": "Simple robot illustrations with high-contrast shapes.",
+  "keywords": [
+    "robot",
+    "minimal",
+    "vector"
+  ],
+  "author": "Custom",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#eaf2f5",
+    "BAR": "#d7e7ed",
+    "FRAME": "#aac5d0",
+    "PANEL": "#f5f9fa",
+    "ROW": "#e0edf0",
+    "TEXT": "#20394a",
+    "LIGHT": "#147f91",
+    "FAINT": "#617d89",
+    "ACCENT": "#36b8c3",
+    "WORKING": "#29b1a6"
+  }
+}

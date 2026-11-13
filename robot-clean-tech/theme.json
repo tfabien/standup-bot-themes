@@ -1,0 +1,24 @@
+{
+  "name": "robot-clean-tech",
+  "label": "Robot · Clean Tech",
+  "description": "Rounded, polished tech robots in white with cyan highlights.",
+  "keywords": [
+    "robot",
+    "clean",
+    "3d"
+  ],
+  "author": "Custom",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#152739",
+    "BAR": "#20354b",
+    "FRAME": "#29435a",
+    "PANEL": "#1b3044",
+    "ROW": "#243b50",
+    "TEXT": "#f1f7fc",
+    "LIGHT": "#7de7ef",
+    "FAINT": "#a6bacb",
+    "ACCENT": "#3ad8e2",
+    "WORKING": "#3ad8e2"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cat",
+  "label": "Cat",
+  "description": "Expressive cats with warm colors and role-specific accessories.",
+  "keywords": [
+    "cat",
+    "animals",
+    "cozy"
+  ],
+  "author": "standup-bot",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#1c1512",
+    "BAR": "#2b201a",
+    "FRAME": "#795039",
+    "PANEL": "#2a201b",
+    "ROW": "#392a23",
+    "TEXT": "#fbeedd",
+    "LIGHT": "#e0c9ae",
+    "FAINT": "#9a8068",
+    "WORKING": "#8fd18a",
+    "NEEDS": "#ffa94d",
+    "ERROR": "#ff6b6b",
+    "YOURTURN": "#8fc4e8",
+    "WAITING": "#c4a6f0",
+    "ACCENT": "#f3be77",
+    "CHIP": "#574033",
+    "ACCENT_DIM": "#5a4326",
+    "NEEDS_DIM": "#7a4a1a"
+  }
+}
