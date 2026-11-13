@@ -1,0 +1,26 @@
+{
+  "name": "noel",
+  "label": "Noël · Atelier du Père Noël",
+  "author": "ChatGPT",
+  "version": "1",
+  "iconPack": "noel",
+  "colors": {
+    "SCREEN": "#101d36",
+    "BAR": "#182b47",
+    "FRAME": "#a9c7df",
+    "PANEL": "#1a304b",
+    "ROW": "#223b56",
+    "TEXT": "#fff2db",
+    "LIGHT": "#ffffff",
+    "FAINT": "#9bb6cc",
+    "WORKING": "#4db8a4",
+    "NEEDS": "#e9b15e",
+    "ERROR": "#e35a65",
+    "YOURTURN": "#efbd62",
+    "WAITING": "#a8c3dc",
+    "ACCENT": "#d9444e",
+    "CHIP": "#315b58",
+    "ACCENT_DIM": "#56343e",
+    "NEEDS_DIM": "#4c4138"
+  }
+}

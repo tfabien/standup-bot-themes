@@ -15,6 +15,55 @@ Themes and icon packs for [standup-bot](https://github.com/tfabien/standup-bot),
 | `fantasy-rpg` | `fantasy-rpg` | Fantasy palette, an adventurer class per role |
 | `insect-kingdom` | `insect-kingdom` | Insect palette, a bug per role |
 | `yokai` | `yokai` | Japanese folklore palette, a yokai per role |
+| `noel` | `noel` | Night blue palette, Santa's workshop: Santa, elf, reindeer, snowman, penguin and polar bear |
+
+## Previews
+
+The eight roles of each pack, with their variants. `robot` is the pack built into standup-bot.
+
+### robot
+
+![robot pack](previews/robot-sheet.png)
+
+### cat
+
+![cat pack](previews/cat-sheet.png)
+
+### lemmings
+
+![lemmings pack](previews/lemmings-sheet.png)
+
+### office
+
+![office pack](previews/office-sheet.png)
+
+### pirates
+
+![pirates pack](previews/pirates-sheet.png)
+
+### spelunky
+
+![spelunky pack](previews/spelunky-sheet.png)
+
+### cozy-farm
+
+![cozy-farm pack](previews/cozy-farm-sheet.png)
+
+### fantasy-rpg
+
+![fantasy-rpg pack](previews/fantasy-rpg-sheet.png)
+
+### insect-kingdom
+
+![insect-kingdom pack](previews/insect-kingdom-sheet.png)
+
+### yokai
+
+![yokai pack](previews/yokai-sheet.png)
+
+### noel
+
+![noel pack](previews/noel-sheet.png)
 
 ## Install
 
