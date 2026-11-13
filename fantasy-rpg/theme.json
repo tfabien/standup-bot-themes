@@ -1,14 +1,14 @@
 {
   "name": "fantasy-rpg",
   "label": "Fantasy RPG",
-  "description": "Pixel-art fantasy adventurers, mages and guild characters.",
+  "description": "Chunky pixel-art adventurers with five complete teams of alternate role sprites.",
   "keywords": [
     "fantasy",
     "rpg",
     "pixel"
   ],
   "author": "Custom pixel pack",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "colors": {
     "SCREEN": "#20172d",
     "BAR": "#30213e",
@@ -17,5 +17,63 @@
     "FRAME": "#a77c50",
     "ACCENT": "#f3bb60",
     "TEXT": "#f8eede"
-  }
+  },
+  "variants": {
+    "parchment": {
+      "label": "Parchment",
+      "colors": {
+        "SCREEN": "#F7F0DF",
+        "BAR": "#EADCC1",
+        "PANEL": "#EADCC1",
+        "ROW": "#DFCBA7",
+        "FRAME": "#9A7447",
+        "TEXT": "#2E2118",
+        "LIGHT": "#5E4937",
+        "FAINT": "#75604D"
+      }
+    },
+    "grove": {
+      "label": "Grove",
+      "colors": {
+        "SCREEN": "#14231B",
+        "BAR": "#1E3528",
+        "PANEL": "#1E3528",
+        "ROW": "#294635",
+        "FRAME": "#5F8C67",
+        "TEXT": "#EEF4E9",
+        "LIGHT": "#C5D9BF",
+        "FAINT": "#8FA58A",
+        "ACCENT": "#B9D86C"
+      }
+    }
+  },
+  "looks": {
+    "humans": {
+      "label": "Humans",
+      "sprite": 1
+    },
+    "elves": {
+      "label": "Elves",
+      "sprite": 2
+    },
+    "dark-party": {
+      "label": "Dark",
+      "sprite": 3
+    },
+    "orcs": {
+      "label": "Orcs",
+      "sprite": 4
+    },
+    "goblins": {
+      "label": "Goblins",
+      "sprite": 5
+    }
+  },
+  "defaultLooks": [
+    "humans",
+    "elves",
+    "dark-party",
+    "orcs",
+    "goblins"
+  ]
 }
