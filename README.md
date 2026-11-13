@@ -21,47 +21,47 @@ The eight roles of each pack, with their variants. `default` (pack `robot`) is t
 
 ### default
 
-![default theme, robot pack](previews/default-sheet.png)
+![default theme, robot pack](previews/default-sheet.png?v=b66751e3)
 
 ### cat
 
-![cat pack](previews/cat-sheet.png)
+![cat pack](previews/cat-sheet.png?v=a196a9b2)
 
 ### lemmings
 
-![lemmings pack](previews/lemmings-sheet.png)
+![lemmings pack](previews/lemmings-sheet.png?v=a5f53c30)
 
 ### office
 
-![office pack](previews/office-sheet.png)
+![office pack](previews/office-sheet.png?v=e1e54159)
 
 ### pirates
 
-![pirates pack](previews/pirates-sheet.png)
+![pirates pack](previews/pirates-sheet.png?v=ea98535d)
 
 ### spelunky
 
-![spelunky pack](previews/spelunky-sheet.png)
+![spelunky pack](previews/spelunky-sheet.png?v=a5253f05)
 
 ### cozy-farm
 
-![cozy-farm pack](previews/cozy-farm-sheet.png)
+![cozy-farm pack](previews/cozy-farm-sheet.png?v=c2732f81)
 
 ### fantasy-rpg
 
-![fantasy-rpg pack](previews/fantasy-rpg-sheet.png)
+![fantasy-rpg pack](previews/fantasy-rpg-sheet.png?v=0211d6a9)
 
 ### insect-kingdom
 
-![insect-kingdom pack](previews/insect-kingdom-sheet.png)
+![insect-kingdom pack](previews/insect-kingdom-sheet.png?v=4e3b17cd)
 
 ### yokai
 
-![yokai pack](previews/yokai-sheet.png)
+![yokai pack](previews/yokai-sheet.png?v=f90ac083)
 
 ### noel
 
-![noel pack](previews/noel-sheet.png)
+![noel pack](previews/noel-sheet.png?v=7e8fb07f)
 
 ## Install
 
