@@ -1,0 +1,31 @@
+{
+  "name": "pirates",
+  "label": "Pirates",
+  "description": "A colorful pixel-art pirate crew with nautical accessories.",
+  "keywords": [
+    "pirates",
+    "adventure",
+    "pixel"
+  ],
+  "author": "standup-bot",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#0c1b25",
+    "BAR": "#142b37",
+    "FRAME": "#795334",
+    "PANEL": "#122734",
+    "ROW": "#1d3746",
+    "TEXT": "#f4e9d0",
+    "LIGHT": "#d5c3a0",
+    "FAINT": "#7f8f96",
+    "WORKING": "#6fcf97",
+    "NEEDS": "#f2a33a",
+    "ERROR": "#e5574f",
+    "YOURTURN": "#6fb4e8",
+    "WAITING": "#79d0c8",
+    "ACCENT": "#efc66c",
+    "CHIP": "#345366",
+    "ACCENT_DIM": "#5a4a22",
+    "NEEDS_DIM": "#7a4e18"
+  }
+}

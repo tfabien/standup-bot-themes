@@ -1,0 +1,21 @@
+{
+  "name": "fantasy-rpg",
+  "label": "Fantasy RPG",
+  "description": "Pixel-art fantasy adventurers, mages and guild characters.",
+  "keywords": [
+    "fantasy",
+    "rpg",
+    "pixel"
+  ],
+  "author": "Custom pixel pack",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#20172d",
+    "BAR": "#30213e",
+    "PANEL": "#30213e",
+    "ROW": "#30213e",
+    "FRAME": "#a77c50",
+    "ACCENT": "#f3bb60",
+    "TEXT": "#f8eede"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "cat-pixel",
+  "label": "Cat Pixel",
+  "description": "Retro pixel-art cats with playful accessories.",
+  "keywords": [
+    "cat",
+    "pixel",
+    "retro"
+  ],
+  "author": "Custom",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#251a36",
+    "BAR": "#392848",
+    "FRAME": "#65426d",
+    "PANEL": "#2c203c",
+    "ROW": "#453054",
+    "TEXT": "#fff0f4",
+    "LIGHT": "#e5a2c2",
+    "FAINT": "#c6a0c5",
+    "ACCENT": "#f4c4a1",
+    "WORKING": "#f4c4a1"
+  }
+}

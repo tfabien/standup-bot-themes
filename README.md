@@ -1,83 +1,39 @@
-# standup-bot themes
+# Standup Bot Themes
 
-Themes and icon packs for [standup-bot](https://github.com/tfabien/standup-bot), the agent standup screen for Claude Code. standup-bot ships with the `default` theme and the `robot` pack only. Everything else lives here.
+Marketplace themes for standup-bot.
 
-| Theme | Icon pack | Look |
-| --- | --- | --- |
-| `cat` | `cat` | Warm brown palette, one cat coat per role |
-| `lemmings` | `lemmings` | Dark green palette, the walking lemming of the game with the tool of a skill per role |
-| `office` | `office` | Slate blue palette, a colleague in a suit per role |
-| `pirates` | `pirates` | Night sea palette with a wood frame, a crew member per role |
-| `spelunky` | `spelunky` | Cave brown palette, an explorer per role |
-| `cozy-farm` | `cozy-farm` | Cozy farm palette, a farm character per role |
-| `fantasy-rpg` | `fantasy-rpg` | Fantasy palette, an adventurer class per role |
-| `insect-kingdom` | `insect-kingdom` | Insect palette, a bug per role |
-| `yokai` | `yokai` | Japanese folklore palette, a yokai per role |
-| `noel` | `noel` | Night blue palette, Santa's workshop: Santa, elf, reindeer, snowman, penguin and polar bear |
+| Preview | Label | Description | Keywords | Version |
+|---|---|---|---|---|
+| ![Cat Cozy](cat-cozy/preview.png) | Cat Cozy | Soft, rounded cats in a cozy illustrated style. | cat, cozy, soft, 3d | 1.0.0 |
+| ![Cat Line](cat-line/preview.png) | Cat Line | Simple outlined cats with restrained purple accents. | cat, line, minimal | 1.0.0 |
+| ![Cat Minimal](cat-minimal/preview.png) | Cat Minimal | Clean, expressive cat illustrations with simplified shapes. | cat, minimal, vector | 1.0.0 |
+| ![Cat Pixel](cat-pixel/preview.png) | Cat Pixel | Retro pixel-art cats with playful accessories. | cat, pixel, retro | 1.0.0 |
+| ![Cat](cat/preview.png) | Cat | Expressive cats with warm colors and role-specific accessories. | cat, animals, cozy | 1.0.0 |
+| ![Cozy Farm](cozy-farm/preview.png) | Cozy Farm | Friendly pixel-art villagers and farm animals in a sunny countryside. | farm, cozy, pixel | 1.0.0 |
+| ![Default / Robot](robot/preview.png) | Default / Robot | Pixel-art robot assistants with glowing screens and role-specific gear. | robot, pixel, technology | 1.0.0 |
+| ![Fantasy RPG](fantasy-rpg/preview.png) | Fantasy RPG | Pixel-art fantasy adventurers, mages and guild characters. | fantasy, rpg, pixel | 1.0.0 |
+| ![Insect Kingdom](insect-kingdom/preview.png) | Insect Kingdom | Tiny insect adventurers from a glowing underground kingdom. | insects, fantasy, pixel | 1.0.0 |
+| ![Lemmings](lemmings/preview.png) | Lemmings | Retro pixel-art lemmings with distinct role accessories. | lemmings, retro, pixel | 1.0.0 |
+| ![Noël · Atelier du Père Noël](noel/preview.png) | Noël · Atelier du Père Noël | Festive pixel-art characters from Santa’s snowy workshop. | christmas, winter, pixel | 1.0.0 |
+| ![Office Line](office-line/preview.png) | Office Line | Friendly office workers drawn with simple lines and orange accents. | office, line, minimal | 1.0.0 |
+| ![Office Minimal](office-minimal/preview.png) | Office Minimal | Minimal vector-style office characters with clear silhouettes. | office, minimal, vector | 1.0.0 |
+| ![Office Modern](office-modern/preview.png) | Office Modern | Soft illustrated office characters in a contemporary workspace. | office, modern, soft | 1.0.0 |
+| ![Office Retro](office-retro/preview.png) | Office Retro | Retro pixel-art office workers inspired by early computers. | office, retro, pixel | 1.0.0 |
+| ![Office](office/preview.png) | Office | Office-themed characters with workplace accessories. | office, work, pixel | 1.0.0 |
+| ![Pirates](pirates/preview.png) | Pirates | A colorful pixel-art pirate crew with nautical accessories. | pirates, adventure, pixel | 1.0.0 |
+| ![Robot · Clean Tech](robot-clean-tech/preview.png) | Robot · Clean Tech | Rounded, polished tech robots in white with cyan highlights. | robot, clean, 3d | 1.0.0 |
+| ![Robot Line](robot-line/preview.png) | Robot Line | Outline-style robot mascots with minimal blue accents. | robot, line, minimal | 1.0.0 |
+| ![Robot · Minimal](robot-minimal/preview.png) | Robot · Minimal | Simple robot illustrations with high-contrast shapes. | robot, minimal, vector | 1.0.0 |
+| ![Robot · Retro Future](robot-retro-future/preview.png) | Robot · Retro Future | Arcade-style pixel robots with cyan and orange highlights. | robot, retro, pixel | 1.0.0 |
+| ![Spelunky](spelunky/preview.png) | Spelunky | Pixel-art cave explorers equipped for underground adventures. | spelunky, caves, pixel | 1.0.0 |
+| ![Yokai](yokai/preview.png) | Yokai | Japanese folklore spirits and creatures in colorful pixel art. | yokai, japan, pixel | 1.0.0 |
 
-## Previews
+## Layout
 
-The eight roles of each pack, with their variants. `default` (pack `robot`) is the theme built into standup-bot.
-
-### default
-
-![default theme, robot pack](previews/default-sheet.png?v=b66751e3)
-
-### cat
-
-![cat pack](previews/cat-sheet.png?v=a196a9b2)
-
-### lemmings
-
-![lemmings pack](previews/lemmings-sheet.png?v=a5f53c30)
-
-### office
-
-![office pack](previews/office-sheet.png?v=e1e54159)
-
-### pirates
-
-![pirates pack](previews/pirates-sheet.png?v=ea98535d)
-
-### spelunky
-
-![spelunky pack](previews/spelunky-sheet.png?v=a5253f05)
-
-### cozy-farm
-
-![cozy-farm pack](previews/cozy-farm-sheet.png?v=c2732f81)
-
-### fantasy-rpg
-
-![fantasy-rpg pack](previews/fantasy-rpg-sheet.png?v=0211d6a9)
-
-### insect-kingdom
-
-![insect-kingdom pack](previews/insect-kingdom-sheet.png?v=4e3b17cd)
-
-### yokai
-
-![yokai pack](previews/yokai-sheet.png?v=f90ac083)
-
-### noel
-
-![noel pack](previews/noel-sheet.png?v=7e8fb07f)
-
-## Install
-
-Ask Claude Code: "install the standup-bot themes from tfabien/standup-bot-themes". It follows [install.md](install.md). With the standup-bot plugin, the `install-theme` skill does the same.
-
-By hand: copy `themes/*.json` into `~/.claude/standup-bot/themes/` and `icons/<pack>/` into `~/.claude/standup-bot/icons/`, then reload the page theme dialog. Details in [install.md](install.md).
-
-## Make a theme
-
-A theme is one JSON file plus, optionally, an icon pack folder. [install.md](install.md#create-a-theme) lists every constraint (names, colors, icon files, sizes) so Claude Code or a person can create one that the hub accepts.
-
-Layout of this repository:
-
-```
-themes/<name>.json            the colors and the name of the icon pack
-icons/<pack>/<role>.png       one image per role (svg, png, webp, gif or jpg)
+```text
+<name>/theme.json
+<name>/preview.png          # optional: png, webp, jpg or gif
+<name>/icons/<role>[-N][-blink].<png|webp|gif|jpg|svg>
 ```
 
-Add your theme in a pull request: one `themes/<name>.json`, its `icons/<pack>/` folder, and a row in the table above.
+Each theme has its own `icons/` directory. The `name` in `theme.json` must match its folder. Use lowercase names, 3–8 keywords, and a dotted numeric version. Preserve theme color keys and use `node tools/check.mjs` before submitting changes.

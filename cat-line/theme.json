@@ -1,0 +1,24 @@
+{
+  "name": "cat-line",
+  "label": "Cat Line",
+  "description": "Simple outlined cats with restrained purple accents.",
+  "keywords": [
+    "cat",
+    "line",
+    "minimal"
+  ],
+  "author": "Custom",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#f9f4fb",
+    "BAR": "#eee3f4",
+    "FRAME": "#d3b9db",
+    "PANEL": "#fffcff",
+    "ROW": "#f2e9f7",
+    "TEXT": "#34233f",
+    "LIGHT": "#a77ab4",
+    "FAINT": "#8d7798",
+    "ACCENT": "#c39bd2",
+    "WORKING": "#c39bd2"
+  }
+}

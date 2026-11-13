@@ -1,0 +1,25 @@
+{
+  "name": "cat-cozy",
+  "label": "Cat Cozy",
+  "description": "Soft, rounded cats in a cozy illustrated style.",
+  "keywords": [
+    "cat",
+    "cozy",
+    "soft",
+    "3d"
+  ],
+  "author": "Custom",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#211a2d",
+    "BAR": "#32263d",
+    "FRAME": "#57405b",
+    "PANEL": "#2b2136",
+    "ROW": "#3c2d47",
+    "TEXT": "#fff2e7",
+    "LIGHT": "#f2b474",
+    "FAINT": "#c7a8c3",
+    "ACCENT": "#e8a36a",
+    "WORKING": "#e8a36a"
+  }
+}

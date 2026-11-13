@@ -1,0 +1,24 @@
+{
+  "name": "office-retro",
+  "label": "Office Retro",
+  "description": "Retro pixel-art office workers inspired by early computers.",
+  "keywords": [
+    "office",
+    "retro",
+    "pixel"
+  ],
+  "author": "Custom",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#1b1d38",
+    "BAR": "#2b2d50",
+    "FRAME": "#4c456b",
+    "PANEL": "#252640",
+    "ROW": "#343452",
+    "TEXT": "#fff5e8",
+    "LIGHT": "#72d9ce",
+    "FAINT": "#b3a9ca",
+    "ACCENT": "#e7a4a0",
+    "WORKING": "#e7a4a0"
+  }
+}

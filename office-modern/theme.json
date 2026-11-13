@@ -1,0 +1,24 @@
+{
+  "name": "office-modern",
+  "label": "Office Modern",
+  "description": "Soft illustrated office characters in a contemporary workspace.",
+  "keywords": [
+    "office",
+    "modern",
+    "soft"
+  ],
+  "author": "Custom",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#142438",
+    "BAR": "#1e344d",
+    "FRAME": "#29445c",
+    "PANEL": "#192d42",
+    "ROW": "#233a51",
+    "TEXT": "#f4f6f9",
+    "LIGHT": "#84b8ef",
+    "FAINT": "#9bb0c6",
+    "ACCENT": "#e9ad51",
+    "WORKING": "#e9ad51"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "office-line",
+  "label": "Office Line",
+  "description": "Friendly office workers drawn with simple lines and orange accents.",
+  "keywords": [
+    "office",
+    "line",
+    "minimal"
+  ],
+  "author": "Custom",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#fff8f0",
+    "BAR": "#f8ead9",
+    "FRAME": "#e5c9a8",
+    "PANEL": "#fffdfa",
+    "ROW": "#f5ecdf",
+    "TEXT": "#24354a",
+    "LIGHT": "#df913c",
+    "FAINT": "#8c7c73",
+    "ACCENT": "#f1ae61",
+    "WORKING": "#f1ae61"
+  }
+}

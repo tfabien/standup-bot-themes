@@ -1,0 +1,24 @@
+{
+  "name": "robot-retro-future",
+  "label": "Robot · Retro Future",
+  "description": "Arcade-style pixel robots with cyan and orange highlights.",
+  "keywords": [
+    "robot",
+    "retro",
+    "pixel"
+  ],
+  "author": "Custom",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#0d102a",
+    "BAR": "#1a2040",
+    "FRAME": "#39365c",
+    "PANEL": "#161b37",
+    "ROW": "#222849",
+    "TEXT": "#f4f7ff",
+    "LIGHT": "#6ef5f7",
+    "FAINT": "#a7abc6",
+    "ACCENT": "#f7a42e",
+    "WORKING": "#49e1e9"
+  }
+}

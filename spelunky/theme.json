@@ -1,0 +1,31 @@
+{
+  "name": "spelunky",
+  "label": "Spelunky",
+  "description": "Pixel-art cave explorers equipped for underground adventures.",
+  "keywords": [
+    "spelunky",
+    "caves",
+    "pixel"
+  ],
+  "author": "custom",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#1b1715",
+    "BAR": "#2b2420",
+    "FRAME": "#86613f",
+    "PANEL": "#2b2521",
+    "ROW": "#3b3028",
+    "TEXT": "#f7e8cd",
+    "LIGHT": "#dbc5a1",
+    "FAINT": "#aa9275",
+    "WORKING": "#89c67a",
+    "NEEDS": "#f1ac50",
+    "ERROR": "#e87368",
+    "YOURTURN": "#87b8dd",
+    "WAITING": "#c6a4d9",
+    "ACCENT": "#f2c46f",
+    "CHIP": "#5b4634",
+    "ACCENT_DIM": "#604927",
+    "NEEDS_DIM": "#765025"
+  }
+}

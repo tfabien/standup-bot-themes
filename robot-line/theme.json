@@ -1,0 +1,24 @@
+{
+  "name": "robot-line",
+  "label": "Robot Line",
+  "description": "Outline-style robot mascots with minimal blue accents.",
+  "keywords": [
+    "robot",
+    "line",
+    "minimal"
+  ],
+  "author": "Custom",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#f2f8fc",
+    "BAR": "#e1edf7",
+    "FRAME": "#acc8de",
+    "PANEL": "#ffffff",
+    "ROW": "#e8f2fa",
+    "TEXT": "#14334d",
+    "LIGHT": "#4b9fdf",
+    "FAINT": "#5f829b",
+    "ACCENT": "#56b9ed",
+    "WORKING": "#56b9ed"
+  }
+}

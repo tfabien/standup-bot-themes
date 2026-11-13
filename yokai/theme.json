@@ -1,0 +1,21 @@
+{
+  "name": "yokai",
+  "label": "Yokai",
+  "description": "Japanese folklore spirits and creatures in colorful pixel art.",
+  "keywords": [
+    "yokai",
+    "japan",
+    "pixel"
+  ],
+  "author": "Custom pixel pack",
+  "version": "1.0.0",
+  "colors": {
+    "SCREEN": "#211b32",
+    "BAR": "#322442",
+    "PANEL": "#322442",
+    "ROW": "#322442",
+    "FRAME": "#b66e9b",
+    "ACCENT": "#f1b6ce",
+    "TEXT": "#f8eede"
+  }
+}
